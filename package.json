@@ -1,0 +1,28 @@
+{
+  "name": "mg-embedsender",
+  "version": "1.0.0",
+  "description": "MaxGaming Embed Sender",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxgamingDev/MG-EmbedSender.git"
+  },
+  "keywords": [
+    "Discord.js",
+    "Embed",
+    "Discord_Embed"
+  ],
+  "author": "Zer0Power",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MaxgamingDev/MG-EmbedSender/issues"
+  },
+  "homepage": "https://github.com/MaxgamingDev/MG-EmbedSender#readme",
+  "dependencies": {
+    "discord.js": "^14.3.0",
+    "dotenv": "^16.0.2"
+  }
+}
