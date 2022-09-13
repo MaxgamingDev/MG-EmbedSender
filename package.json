@@ -4,7 +4,8 @@
   "description": "MaxGaming Embed Sender",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "nodemon index.js",
+    "send": "node index.js"
   },
   "repository": {
     "type": "git",
