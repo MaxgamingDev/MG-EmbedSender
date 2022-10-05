@@ -53,3 +53,32 @@
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/MaxgamingDev/MG-EmbedSender.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. Edit File
+   ```js
+   .setColor("") //Hex code
+    .setTimestamp() //leave it empty 
+    .setDescription() //Description
+    .setThumbnail() //Image Url
+    .setImage() //Image Url
+    .setFooter({
+      text: , //footer text
+      iconURL: , //image Url
+    });
+   ```
+4. Run the project.
+    ```sh
+    npm run send
+    ```
+
+<p align="right">(<a href="#top">back to top</a>)</p>
