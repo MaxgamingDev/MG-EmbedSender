@@ -8,7 +8,7 @@
    <h3 align="center">EmbedSender</h3>
 
   <p align="center">
-    Costume Embed Discord Js Embed Sender
+    Costume Discord Js Embed Sender
     <br />
     <a href="https://github.com/MaxgamingDev/MG-EmbedSender"><strong>Explore the docs »</strong></a>
     <br />
