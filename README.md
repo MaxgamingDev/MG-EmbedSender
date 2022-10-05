@@ -41,3 +41,15 @@
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+<img src="images/screenshot.png" alt="ScreenShot">
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
